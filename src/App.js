@@ -10,6 +10,7 @@ function App() {
       <header className="App-header">
         <img src={logo} alt="logo" className="App-logo" />
         <h3>Get the App</h3>
+        <h2>Drinking Democracy is called Party Populist on the Appstore</h2>
         <div className="badges">
           <a href="https://play.google.com/store/apps/details?id=com.danielportelabyrne.drinkingdemocracy">
             <img src={google} alt="Get it on Google Play" />
