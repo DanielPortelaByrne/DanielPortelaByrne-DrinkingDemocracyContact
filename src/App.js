@@ -14,7 +14,7 @@ function App() {
           <a href="https://play.google.com/store/apps/details?id=com.danielportelabyrne.drinkingdemocracy">
             <img src={google} alt="Get it on Google Play" />
           </a>
-          <a href="https://apps.apple.com/us/app/your-app-name/id1234567890">
+          <a href="https://apps.apple.com/app/party-populist/id1669272602">
             <img src={apple} alt="Get it on the App Store" />
           </a>
         </div>
