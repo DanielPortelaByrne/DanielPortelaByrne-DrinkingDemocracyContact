@@ -1,6 +1,6 @@
 import logo from "./logo512.png";
-import google from "./google-play-badge.png";
-import apple from "./app-store-badge.png";
+import google from "./google.png";
+import apple from "./apple.png";
 import "./App.css";
 import { BrowserRouter as Router } from "react-router-dom";
 
@@ -10,7 +10,7 @@ function App() {
       <header className="App-header">
         <img src={logo} alt="logo" className="App-logo" />
         <h3>Get the App</h3>
-        <h2>Drinking Democracy is called Party Populist on the Appstore</h2>
+        <h4>Drinking Democracy is called Party Populist on the Appstore</h4>
         <div className="badges">
           <a href="https://play.google.com/store/apps/details?id=com.danielportelabyrne.drinkingdemocracy">
             <img src={google} alt="Get it on Google Play" />

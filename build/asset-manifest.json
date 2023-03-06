@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/DanielPortelaByrne-DrinkingDemocracyContact/static/css/main.ee620d33.css",
-    "main.js": "/DanielPortelaByrne-DrinkingDemocracyContact/static/js/main.91fad023.js",
+    "main.js": "/DanielPortelaByrne-DrinkingDemocracyContact/static/js/main.0cef910b.js",
     "static/js/787.a53f3174.chunk.js": "/DanielPortelaByrne-DrinkingDemocracyContact/static/js/787.a53f3174.chunk.js",
-    "static/media/app-store-badge.png": "/DanielPortelaByrne-DrinkingDemocracyContact/static/media/app-store-badge.85a3244367fe85be84d2.png",
+    "static/media/apple.png": "/DanielPortelaByrne-DrinkingDemocracyContact/static/media/apple.85a3244367fe85be84d2.png",
     "static/media/logo512.png": "/DanielPortelaByrne-DrinkingDemocracyContact/static/media/logo512.f4e0f81f085a3ef504e4.png",
     "index.html": "/DanielPortelaByrne-DrinkingDemocracyContact/index.html",
     "main.ee620d33.css.map": "/DanielPortelaByrne-DrinkingDemocracyContact/static/css/main.ee620d33.css.map",
-    "main.91fad023.js.map": "/DanielPortelaByrne-DrinkingDemocracyContact/static/js/main.91fad023.js.map",
+    "main.0cef910b.js.map": "/DanielPortelaByrne-DrinkingDemocracyContact/static/js/main.0cef910b.js.map",
     "787.a53f3174.chunk.js.map": "/DanielPortelaByrne-DrinkingDemocracyContact/static/js/787.a53f3174.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee620d33.css",
-    "static/js/main.91fad023.js"
+    "static/js/main.0cef910b.js"
   ]
 }
